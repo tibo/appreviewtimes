@@ -1,0 +1,12 @@
+{
+  "name": "appreviewtimes",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "express": "^4.12.2",
+    "newrelic": "^1.17.0",
+    "redis": "^0.12.1",
+    "request": "^2.53.0"
+  }
+}
